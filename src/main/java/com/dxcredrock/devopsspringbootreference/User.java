@@ -35,7 +35,7 @@ public class User {
 	public String getFirstName() {
 		return firstName;
 	}
-
+//setter method for firstname
 	public void setFirstName(String name) {
 		this.firstName = name;
 	}
