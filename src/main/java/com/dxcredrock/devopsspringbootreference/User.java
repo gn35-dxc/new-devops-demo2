@@ -31,7 +31,7 @@ public class User {
 	public long getId() {
 		return id;
 	}
-//added comment
+//getter method for firstname
 	public String getFirstName() {
 		return firstName;
 	}
