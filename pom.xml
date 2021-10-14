@@ -49,6 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>devops-second-audit-demo</finalName>
 	</build>
 
 </project>
